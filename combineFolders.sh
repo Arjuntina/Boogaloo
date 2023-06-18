@@ -7,7 +7,7 @@
 
 
 # Folder location with all the subfolders -- prompt user to enter it?
-FOLDERLOC="/home/arjuntina/Files/Reading/manga/Death note"
+FOLDERLOC="/home/arjuntina/Files/Reading/manga/FMA"
 
 
 # Navigate to specified folder location and create "master" folder fo all the files to be copied into
