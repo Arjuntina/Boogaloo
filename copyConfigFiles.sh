@@ -19,9 +19,9 @@ cd -- "$target_dir_loc"
 
 # remove existing config folder backup & copy current config folder backup to the new location
 rm -rf ".config"
-echo "Existing config folder removed"
+echo "Existing config folder backup removed"
 cp -rf "$config_folder_loc" "$target_dir_loc"
-echo -e "New config folder copied\n"
+echo -e "New config folder backup copied\n"
 
 # Enter into the config folder backup 
 cd ".config"
